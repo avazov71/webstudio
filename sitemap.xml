@@ -4,17 +4,24 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
-  <loc>https://intellectkg.com/</loc>
-  <lastmod>2024-06-27T16:23:00+00:00</lastmod>
+  <loc>https://webstudio-silk-ten.vercel.app/</loc>
+  <lastmod>2024-10-18T03:43:23+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-    <loc>https://intellectkg.com/contacts</loc>
-    <lastmod>2024-06-27T16:23:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://intellectkg.com/courses</loc>
-    <lastmod>2024-06-27T16:23:00+00:00</lastmod>
-  </url>
+  <loc>https://webstudio-silk-ten.vercel.app/pages/portfolio.html</loc>
+  <lastmod>2024-10-18T04:21:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://webstudio-silk-ten.vercel.app/index.html</loc>
+  <lastmod>2024-10-18T04:21:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
