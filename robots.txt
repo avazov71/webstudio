@@ -1,9 +1,6 @@
 User-agent: *
-Disallow: /portfolio.html
-
-User-agent: *
 Allow: /
-# robots.txt for https://intellectkg.com
+# robots.txt for  https://webstudio-silk-ten.vercel.app
 
 # Delay for all crawlers to prevent server overload
 Crawl-delay: 10
@@ -14,4 +11,4 @@ Allow: /
 Crawl-delay: 5
 
 # Sitemap location
-Sitemap: https://webstudio-silk-ten.vercel.app/index.html
+Sitemap: https://webstudio-silk-ten.vercel.app/sitemap.xml
